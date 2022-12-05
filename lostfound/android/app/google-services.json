@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862669663680",
+    "project_id": "lost-ecace",
+    "storage_bucket": "lost-ecace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862669663680:android:4a040205f207a7ed712c25",
+        "android_client_info": {
+          "package_name": "com.sunnykrsingh.lostfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862669663680-7rtuinkrr6ujoeom627thvq8hgvrttl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_h4eHxBoM8SQUdyQhmbo1q75cw7_goo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862669663680-7rtuinkrr6ujoeom627thvq8hgvrttl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
